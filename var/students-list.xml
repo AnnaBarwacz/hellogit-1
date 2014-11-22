@@ -8,11 +8,12 @@
         <github>studuek</github>
         <group>jkanclerz</group>
     </student>
+    
     <student>
         <firstname>Jakub</firstname>
         <lastname>Kanclerz</lastname>
+    </student>
 
-<students>
     <student>
         <firstname>Student1</firstname>
         <lastname>Student1</lastname>
@@ -20,10 +21,13 @@
         <github>studuek</github>
         <group>jkanclerz</group>
     </student>
+
+    <student>
         <email>jakub.kanclerz@gmail.com</email>
         <github>jkanclerz</github>
         <group>jkanclerz</group>
     </student>
+
     <student>
         <firstname>Marcin</firstname>
         <lastname>Zgoda</lastname>
@@ -31,6 +35,7 @@
         <github>zgm92</github>
         <group>KrDzIS3011io</group>
     </student
+    
     <student>
 	<firstname>Andrzej</firstname>
 	<lastname>Jagielski</listname>
@@ -38,14 +43,16 @@
 	<github>sirskan</github>
 	<group>KrDzIs3012Io</group>
     </student>
- <student>
+ 
+    <student>
         <firstname>Elena</firstname>
         <lastname>Iakovlieva</lastname>
         <email>almera7@interia.eu</email>
         <github>almera7</github>
         <group>KrDzia3012</group>
     </student>
- <student>
+
+    <student>
         <firstname>Magdalena</firstname>
         <lastname>Wlazło</lastname>
         <email>wlazloxmagdalena@gmail.com</email>
@@ -53,4 +60,11 @@
         <group>KrDzIS3011Si</group>
     </student>
 
+    <student>
+	<firstname>Anna</firstnmae>
+	<lastname>Barwacz</lastname>
+	<email>abb@onet.pl</email>
+	<github>AnnaBarwacz</github>
+	<group>KrZZIs3011Si</group>
+    </student>
 </students>
